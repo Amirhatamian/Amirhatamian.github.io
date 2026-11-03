@@ -24,6 +24,9 @@ I work with Python, SQL and R: cleaning and joining data, analysing it, building
 
 | Project | What it shows | Result |
 |---|---|---|
+| [E-commerce Sales Analysis with SQL and Power BI](https://github.com/Amirhatamian/olist-sql-powerbi) | PostgreSQL, CTEs, window functions, Power BI | Late deliveries: 2.27 vs 4.29 stars |
+| [A/B Test: Moving the First Gate in a Mobile Game](https://github.com/Amirhatamian/ab-test-cookie-cats) | Hypothesis tests, confidence intervals, bootstrap, power | 7-day retention 19.0% vs 18.2% (p = 0.002) |
+| [Customer Churn Prediction](https://github.com/Amirhatamian/churn-prediction-telco) | scikit-learn, XGBoost, cross-validation, campaign profit | ROC-AUC 0.85 |
 | [Anomaly Detection on ECG Data](https://github.com/Amirhatamian/Machine-Learning-) | Autoencoder trained on normal heartbeats only; flags heartbeats it cannot rebuild | 91% accuracy on 1,000 test ECGs |
 | [ETL Pipeline with Python and SQLite](https://github.com/Amirhatamian/ETL) | SQL joins, data cleaning, duplicate removal, date fixes | 15,321 raw sales lines → 15,206 clean rows |
 | [EDA on Netflix and NBA data](https://github.com/Amirhatamian/Data-Analysis-and-Manipulation-with-Python) | Cleaning and exploring large public datasets | Home teams win 58.7% of NBA games |
