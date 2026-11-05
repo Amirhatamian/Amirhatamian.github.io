@@ -24,6 +24,7 @@ I work with Python, SQL and R: cleaning and joining data, analysing it, building
 
 | Project | What it shows | Result |
 |---|---|---|
+| [Predictive Maintenance of a Hydraulic System](https://github.com/Amirhatamian/hydraulic-predictive-maintenance) | Sensor feature extraction, honest grouped validation, sensor selection | 95–100% diagnosis on stable cycles |
 | [Italian Fuel Price Data Pipeline (ETL)](https://github.com/Amirhatamian/italy-fuel-etl) | Python ETL, PostgreSQL star schema, data quality, tests, CI, Docker | 33.8 M prices loaded, 0.008% quarantined |
 | [Italian Fuel Prices: who charges more, and where?](https://github.com/Amirhatamian/italy-fuel-prices) | Real Italian open data, data repair, SQL, Python charts | Served fuel costs €6.74 more per tank |
 | [E-commerce Sales Analysis with SQL and Power BI](https://github.com/Amirhatamian/olist-sql-powerbi) | PostgreSQL, CTEs, window functions, Power BI | Late deliveries: 2.27 vs 4.29 stars |
